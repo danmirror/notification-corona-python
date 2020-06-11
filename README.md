@@ -23,3 +23,6 @@
 
 > windows
 - py namefile.py
+
+#### developer
+- <a href=https://me-danuandrean.github.io>Danu andrean</a>
