@@ -17,7 +17,7 @@
 - pip3 install bs4
 - pip3 install plyer
 
-#### runing
+#### running
 > linux
 - python3 namefile.py
 
